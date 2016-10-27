@@ -4,7 +4,7 @@
 # Provision shell setup script
 $script = <<SCRIPT
 sudo apt-get install python-pip -y
-pip install -r /home/vagrant/vagrant_sync/pip_requirements.txt
+pip install -r /vagrant/app/pip_requirements.txt
 SCRIPT
 
 
