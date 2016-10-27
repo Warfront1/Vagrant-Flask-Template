@@ -26,3 +26,4 @@ $ Vagrant ssh
 # Now you have established an SSH connection with the dev box
 $ python ./app/flaskhelloworld.py
 ```
+3) Navigate to the following address on your browser of choice: [localhost:5000](localhost:5000)
