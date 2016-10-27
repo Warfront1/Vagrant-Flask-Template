@@ -24,6 +24,6 @@ I'd recommend using the Git Shell packaged with the [Github Desktop](https://des
 $ Vagrant up
 $ Vagrant ssh
 # Now you have established an SSH connection with the dev box
-$ python ./app/flaskhelloworld.py
+$ python ~/vagrant_sync/flaskhelloworld.py
 ```
 3) Navigate to the following address on your browser of choice: [localhost:5000](localhost:5000)
